@@ -3,7 +3,7 @@
 #### Sobre mim
 
 <ul>
-  <li>::marker 🧔🏽 I'm 25 years old, brazilian living in Belo Horizonte</li>
+  <li>🧔🏽 Tenho 30 anos, natural de Cambará - Pr / Brasil</li>
 
 </ul>
 
