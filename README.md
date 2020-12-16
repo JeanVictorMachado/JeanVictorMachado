@@ -6,8 +6,6 @@
 
 <p style="margin-bottom:1px,solid,black">Acredito que hoje a tecnologia é fundamental a nossa vida e com o passar do tempo isso tende a aumentar ainda mais, e sem dúvidas quero fazer parte dessa evolução.</p>
 
-#### Acredito que hoje a tecnologia é fundamental a nossa vida e com o passar do tempo isso tende a aumentar ainda mais, e sem dúvidas quero fazer parte dessa evolução.
-
 #### Sobre mim
 
 <ul>
