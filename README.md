@@ -2,6 +2,11 @@
 
 #### Sobre mim
 
+<ul>
+  <li>::marker 🧔🏽 I'm 25 years old, brazilian living in Belo Horizonte</li>
+
+</ul>
+
 
 <!--
 **JeanVictorMachado/JeanVictorMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
