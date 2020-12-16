@@ -4,7 +4,9 @@
 
 <ul>
   <li>🧔🏽 Tenho 30 anos, natural de Cambará - Pr / Brasil</li>
-
+  <li>🌱 Atualmente estudo desenvolvimento web full Stack na TRybe</li>
+  <li>👯 Estou procurando oportunidades de emprego como desenvolvedor de sofweare</li>
+  <li><g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji></li>
 </ul>
 
 
