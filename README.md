@@ -9,7 +9,10 @@
   <li>👯 Estou procurando oportunidades de emprego como desenvolvedor de sofweare</li>
   <li>⚡ Alguns dos meus pontos fortes são:
     <ul>
-      <li>kimmo</li>
+      <li>Escuta ativa</li>
+      <li>Trabalho em grupo</li>
+      <li>Saber dar e receber feedbacks</li>
+      <li>Resiliência</li>
     </ul>
   </li>
 </ul>
