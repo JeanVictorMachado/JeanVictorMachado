@@ -8,7 +8,9 @@
   <li>🌱 Atualmente estudo desenvolvimento web full Stack na Trybe</li>
   <li>👯 Estou procurando oportunidades de emprego como desenvolvedor de sofweare</li>
   <li>⚡ Alguns dos meus pontos fortes são:
-    <li>kimmo</li>
+    <ul>
+      <li>kimmo</li>
+    </ul>
   </li>
 </ul>
 
