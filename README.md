@@ -7,6 +7,7 @@
   <li><g-emoji class="g-emoji" alias="heart" fallback-         src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> Adoro praticar esportes, passar o dia com a família e amigos e é claro muito código</li>
   <li>🌱 Atualmente estudo desenvolvimento web full Stack na TRybe</li>
   <li>👯 Estou procurando oportunidades de emprego como desenvolvedor de sofweare</li>
+  <li>⚡</li>
 </ul>
 
 
