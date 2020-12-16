@@ -31,6 +31,14 @@
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/css3.png"><img align="left" alt="CSS3" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/css3.png" style="max-width:100%;"></a></p>
 
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/javascript.png"><img align="left" alt="JavaScript" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/javascript.png" style="max-width:100%;"></a></p>
+
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/react.png"><img align="left" alt="React" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/react.png" style="max-width:100%;"></a></p>
+
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/react-native.png"><img align="left" alt="React-Native" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/react-native.png" style="max-width:100%;"></a></p>
+
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/redux.png"><img align="left" alt="Redux" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/redux.png" style="max-width:100%;"></a></p>
+
 
 <!--
 **JeanVictorMachado/JeanVictorMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
