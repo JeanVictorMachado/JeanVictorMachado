@@ -23,7 +23,7 @@
   </li>
 </ul>
 
-#### Linguagens e ferramentas
+<!--#### Linguagens e ferramentas-->
 
 <!--<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/vscode.png"><img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/vscode.png" style="max-width:100%;"></a></p>-->
 
