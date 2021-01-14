@@ -25,9 +25,9 @@
 
 #### Linguagens e ferramentas
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/vscode.png"><img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/vscode.png" style="max-width:100%;"></a></p>
+<!--<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/vscode.png"><img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/vscode.png" style="max-width:100%;"></a></p>-->
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/html5.png"><img align="left" alt="HTML5" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/html5.png" style="max-width:100%;"></a></p>
+<!--<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/html5.png"><img align="left" alt="HTML5" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/html5.png" style="max-width:100%;"></a></p>
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/css3.png"><img align="left" alt="CSS3" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/css3.png" style="max-width:100%;"></a></p>
 
@@ -41,7 +41,7 @@
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/git.png"><img align="left" alt="Git" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/git.png" style="max-width:100%;"></a></p>
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/github.png"><img align="left" alt="GitHub" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/github.png" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/github.png"><img align="left" alt="GitHub" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/github.png" style="max-width:100%;"></a></p>-->
 
 <!--
 **JeanVictorMachado/JeanVictorMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
