@@ -33,6 +33,8 @@
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/javascript.png"><img align="left" alt="JavaScript" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/javascript.png" style="max-width:100%;"></a></p>
 
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/typescript.png"><img align="left" alt="Typescript" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/typescript.png" style="max-width:100%;"></a></p>
+
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/react.png"><img align="left" alt="React" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/react.png" style="max-width:100%;"></a></p>
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/react-native.png"><img align="left" alt="React-Native" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/react-native.png" style="max-width:100%;"></a></p>
