@@ -36,7 +36,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanVictorMachado&show_icons=true&theme=dracula)](https://github.com/JeanVictorMachado/github-readme-stats)
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanVictorMachado&layout=compact)](https://github.com/JeanVictorMachado/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanVictorMachado&layout=compact&show_icons=true&theme=dracula)](https://github.com/JeanVictorMachado/github-readme-stats)
 
 
 
