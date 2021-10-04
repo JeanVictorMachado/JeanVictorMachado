@@ -8,7 +8,7 @@
 <g-emoji class="g-emoji" alias="atom_symbol" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/269b.png">⚛️</g-emoji>   <a href="https://my-personal-page-mu.vercel.app" rel="nofollow">My site</a> <br></p>
 </article>
 
-### Technologies & Tools
+### Technologies
 
 <h4><g-emoji class="g-emoji" alias="sunglasses" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60e.png">😎</g-emoji> What I currently use</h4>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/634ddc699195d5cd03dc1634bed8d6d13d9e86c6339b5b3881c3506ad923a46d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4a6176615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d776869746526636f6c6f723d656664383164"><img src="https://camo.githubusercontent.com/634ddc699195d5cd03dc1634bed8d6d13d9e86c6339b5b3881c3506ad923a46d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4a6176615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d776869746526636f6c6f723d656664383164" alt="" data-canonical-src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&amp;logo=javascript&amp;logoColor=white&amp;color=efd81d" style="max-width: 100%;"></a>
