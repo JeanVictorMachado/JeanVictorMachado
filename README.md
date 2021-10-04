@@ -3,7 +3,7 @@
 <g-emoji class="g-emoji" alias="house_with_garden" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e1.png">🏡</g-emoji>   Brazilian, Based in Cambará, PR
 <h3><a id="user-content-you-can-find-me-on" class="anchor" aria-hidden="true" href="#you-can-find-me-on"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>You can find me on</h3></article><br>
 
-<p align="center">
+<p>
   <a href="https://my-personal-page-mu.vercel.app" rel="nofollow">
     <img src="https://camo.githubusercontent.com/e88ef7cc5e0c85423566ee25a25ab9d82d40d4b069715644d81749aa961e33f3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f7274666f6c696f2d4646343038383f7374796c653d666f722d7468652d6261646765266c6f676f3d4875676f266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Portfolio-FF4088?style=for-the-badge&amp;logo=Hugo&amp;logoColor=white" style="max-width: 100%;">
   </a>	
