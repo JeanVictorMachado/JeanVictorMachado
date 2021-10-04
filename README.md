@@ -31,6 +31,7 @@
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/github.png"><img align="left" alt="GitHub" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/github.png" style="max-width:100%;"></a></p>
 <br>
 <br>
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanVictorMachado)](https://github.com/JeanVictorMachado/github-readme-stats)
 
