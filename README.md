@@ -12,7 +12,7 @@
 <g-emoji class="g-emoji" alias="atom_symbol" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/269b.png">⚛️</g-emoji>   <a href="https://my-personal-page-mu.vercel.app" rel="nofollow">My site</a> <br></p>
 </article>
 
-### Linguagens e ferramentas
+### Hard skills
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/vscode.png"><img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/vscode.png" style="max-width:100%;"></a></p>
 
