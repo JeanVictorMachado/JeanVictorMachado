@@ -36,7 +36,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanVictorMachado)](https://github.com/JeanVictorMachado/github-readme-stats)
 <br>
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/8a5169d85801d95630d18cf2080ebbbe494f4f2675a40dd45b4c1ec3eea4801e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6175677573746f726c2673686f775f69636f6e733d74727565267468656d653d64726163756c61"><img src="https://camo.githubusercontent.com/8a5169d85801d95630d18cf2080ebbbe494f4f2675a40dd45b4c1ec3eea4801e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6175677573746f726c2673686f775f69636f6e733d74727565267468656d653d64726163756c61" alt="augustorl's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=augustorl&amp;show_icons=true&amp;theme=dracula" style="max-width: 100%;"></a></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanVictorMachado&show_icons=true&theme=radical)
+
 
 
 <!--
