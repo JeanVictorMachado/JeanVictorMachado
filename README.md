@@ -9,18 +9,8 @@
 #### Sobre mim
 
 <ul>
-  <li>🧔🏽 Tenho 30 anos, natural de Cambará - Pr / Brasil</li>
+  <li>🧔🏽 Tenho 31 anos, natural de Cambará - Pr / Brasil</li>
   <li><g-emoji class="g-emoji" alias="heart" fallback-         src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> Adoro praticar esportes, passar o dia com a família e amigos e é claro muito código</li>
-  <li>🌱 Atualmente estudo desenvolvimento web full Stack na Trybe</li>
-  <li>👯 Estou procurando oportunidades de emprego como desenvolvedor de software</li>
-  <li>⚡ Alguns dos meus pontos fortes são:
-    <ul>
-      <li>Escuta ativa</li>
-      <li>Trabalho em grupo</li>
-      <li>Saber dar e receber feedbacks</li>
-      <li>Resiliência</li>
-    </ul>
-  </li>
 </ul>
 
 #### Linguagens e ferramentas
