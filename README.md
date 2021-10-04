@@ -2,17 +2,6 @@
 
 <a href="https://www.linkedin.com/feed/" rel="nofollow"><img src="https://camo.githubusercontent.com/52b5d632516e1714252b6e4dd3e53efd1b6747ca5200a9f9be5c35d9bb07e5cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f64616e69656c652d70657273652f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/daniele-perse/" style="max-width:100%;"></a>
 
-### Sejam bem vindos em meu perfil
-
-<p style="margin-bottom:1px,solid,black">Acredito que hoje a tecnologia é fundamental a nossa vida e com o passar do tempo isso tende a aumentar ainda mais, e sem dúvidas quero fazer parte dessa evolução.</p>
-
-#### Sobre mim
-
-<ul>
-  <li>🧔🏽 Tenho 31 anos, natural de Cambará - Pr / Brasil</li>
-  <li><g-emoji class="g-emoji" alias="heart" fallback-         src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> Adoro praticar esportes, passar o dia com a família e amigos e é claro muito código</li>
-</ul>
-
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><h3><a id="user-content--hello-im-willian" class="anchor" aria-hidden="true" href="#-hello-im-willian"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;"></a> Hello, I'm Willian!</h3>
 <p><g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png">⭐</g-emoji>   I'm a <a href="https://stars.github.com/profiles/willianjusten/">GitHub Star</a> <br>
 <g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji>   Microsoft MVP <br>
@@ -23,7 +12,6 @@
 <g-emoji class="g-emoji" alias="bird" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png">🐦</g-emoji>   <a href="https://twitter.com/Willian_justen" rel="nofollow">Twitter</a> <br>
 <g-emoji class="g-emoji" alias="camera" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f7.png">📷</g-emoji>   <a href="https://unsplash.com/@willianjusten" rel="nofollow">Unsplash</a> <br>
 <g-emoji class="g-emoji" alias="atom_symbol" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/269b.png">⚛️</g-emoji>   <a href="https://willianjusten.com.br" rel="nofollow">My site</a> <br></p>
-<h3><a id="user-content--latest-blog-posts" class="anchor" aria-hidden="true" href="#-latest-blog-posts"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="closed_book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d5.png">📕</g-emoji>  Latest Blog Posts</h3>
 </article>
 
 #### Linguagens e ferramentas
